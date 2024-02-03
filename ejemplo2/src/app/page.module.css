@@ -1,0 +1,46 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+  
+  
+  }
+  .container__list {
+ 
+  list-style-type: none;
+  padding: 0;
+
+  
+  }
+
+  .list {
+  margin-bottom: 5px;
+  
+  }
+  .title {
+    
+  margin: 20px 0;
+  border: 0;
+  border-top: 4px solid #ccc;
+  }
+  .nameclub {
+  margin: 20px 0;
+  border: 0;
+  border-top: 4px solid rgb(91, 132, 207);
+  }
+  .imagen{
+    height: 200px;
+    width: 200px;
+  }
+  .columnas{
+    columns: 3;
+  }
+  .cuadro{
+    background-color: black;
+    color:white;
+    padding: 3%;
+  }
+  
